@@ -24,3 +24,6 @@ You need to create different functions for each task.
     a. If You have already seen the story.
     b. Or The user has no story.
     c. Or View the story if not yet seen.
+
+
+Using Selenium for this project. (Web Scraping library)
