@@ -27,3 +27,7 @@ You need to create different functions for each task.
 
 
 Using Selenium for this project. (Web Scraping library)
+
+
+First time users can refer the below link for documentation for Selenium.
+Link  https://selenium-python.readthedocs.io/
